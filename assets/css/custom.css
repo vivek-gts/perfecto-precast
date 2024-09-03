@@ -1,0 +1,47 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-wrap: balance;
+}
+
+.swiper-slide {
+  scale: 0.9;
+}
+
+.counter__section__wrapper {
+  z-index: -20;
+}
+
+.counter__box .counter__number {
+  -webkit-text-stroke-color: rgba(0, 0, 0, 0.24);
+}
+
+.recycle_image {
+  left: 0;
+  top: 0;
+  position: absolute;
+  margin: auto;
+  right: 0;
+  bottom: 0;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.logo-area img {
+  scale: 1.2;
+  margin-left: 11px;
+}
+
+.logo-area img,
+.offset-logo img {
+  filter: brightness(2.6);
+}
+
+.main-header-area {
+  border-left: 3px solid #e8112b;
+}
