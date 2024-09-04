@@ -51,3 +51,7 @@ h6 {
 .main-header-area {
   border-left: 3px solid #e8112b;
 }
+
+.product-image-bg {
+  margin-top: 12px;
+}
