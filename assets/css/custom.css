@@ -55,3 +55,11 @@ h6 {
 .product-image-bg {
   margin-top: 12px;
 }
+
+.product-image {
+  aspect-ratio: 1.2;
+  object-fit: fill;
+}
+.main-menu ul li a::before {
+  content: "";
+}
